@@ -1,16 +1,16 @@
 body {
   margin: 0;
   text-align: center;
-  color:black;
+  color:#171717bb;
   font-family: "Merriweather", serif;
 }
 .geek{
   color: white;
   margin:6rem auto 0 auto;
-  background-color: black;
+  background-color: #101216;
 }
 .bg{
-  background-color: black;
+  background-color: #101216;
   position: relative;
   align-items: center;
 }
@@ -37,7 +37,7 @@ body {
   width:10rem;
   background-color: aqua;
   height: 10rem;
-  opacity: 0.8;
+  opacity: 0.7;
   margin: 50px auto 50px auto ;
 }
 h1 {
@@ -81,12 +81,12 @@ p{
 }
 
 .intro{
-    max-width: 30%;
+    max-width: 38%;
     margin: auto;
     text-align: justify;
 }
 .top-container {
-  background-color: black;
+  background-color: #101216;
   margin: 0;
   position: relative;
   padding-top: 3rem;
@@ -127,7 +127,7 @@ hr{
   }
   
   .btn:hover {
-    background: black;
+    background: #101216;
     text-decoration: none;
   }
   .bottom-container{
