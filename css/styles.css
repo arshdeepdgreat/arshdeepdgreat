@@ -1,6 +1,7 @@
 body {
   margin: 0;
   text-align: center;
+  color:black;
   font-family: "Merriweather", serif;
 }
 .bottom-cloud {
@@ -116,3 +117,26 @@ hr{
       color: white;
       font-size: small;
   }
+
+.slideanim {
+  visibility:hidden;
+  visibility:visible\9;/*For old IE browsers IE6-8 */
+}
+.slideanim.slide {visibility: visible; animation:slide 1s;}
+.slideanim::after {
+  /* useful when its child elements are float:left; */
+  content: "";
+  display: table;
+  clear: both;
+}
+@keyframes slide {
+  0% {
+      opacity: 0;
+      transform: translateY(50%);
+  } 
+  100% {
+      opacity: 1;
+      transform: translateY(0);
+  } 
+}
+
