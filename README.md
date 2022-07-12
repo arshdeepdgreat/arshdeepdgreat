@@ -6,7 +6,7 @@
 
 An aspiring developer eager to contribute to the tech world. I'm passionate about Development 📊 and Innovation 🚧. I like automating things and am a strong advocate for web development 🖥️ and CLI tools ⌨️ ( linux enthusiast ).
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Manas1820/Manas1820/master/profile-first-pr-dark.svg" />
+<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/Manas1820/Manas1820/master/profile-first-pr-dark.svg" />
 
 - 🌱 Currently learning and working with React, Python and NodeJS .
 - 👯 I’m looking to collaborate on frontend applications using React and some basic backend dev stuff.
