@@ -36,6 +36,7 @@ An aspiring developer eager to contribute to the tech world. I'm passionate abou
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arshdeepdgreat&theme=dark" width="45%" >
 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arshdeepdgreat&show_icons=true&hide_border=true&theme=dark&layout=compact&hide=python,javascript,html,css" alt="arshdeepdgreat" width="41%"  >
 <br>
 
 <div align="center">
