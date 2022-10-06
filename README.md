@@ -29,14 +29,6 @@ An aspiring developer eager to contribute to the tech world. I'm passionate abou
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 
   <br >
-
-## 🏆 Github Status
-  
-<img  src="https://github-readme-stats.vercel.app/api?username=arshdeepdgreat&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
-<br>
-
-<div align="center">
   
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
